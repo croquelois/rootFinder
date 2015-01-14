@@ -1,0 +1,15 @@
+{
+  "name": "rootFinder",
+  "description": "root finder Brent Newton Bisection",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matthieu Croquelois",
+    "email": "croquelois@gmail.com"
+  },
+  "keywords": [
+    "root Brent Newton Bisection"
+  ],
+  "main": "./rootFinder.js",
+  "dependencies": {
+  }
+}
